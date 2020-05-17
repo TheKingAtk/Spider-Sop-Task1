@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="normal">1 v 1</string>
+    <string name="adv">vs Comp</string>
+    <string name="select">Select an Option to Play</string>
+    <string name="p1">P1 : </string>
+    <string name="p2">P2 : </string>
+    <string name="ready">Ready ?</string>
+    <string name="rounds">No. of Rounds : </string>
+    <string name="enter">Enter your name</string>
+    <string name="play">PLAY</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissor">Scissor</string>
+    <string name="help">HELP :Both players have to choose at the same time to play</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
